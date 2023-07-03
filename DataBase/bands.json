@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Blazer",
+        "id": 1122,
+        "content":
+        {
+            "disponibility":
+            [
+                {
+                    "date": "2023-07-02",
+                    "hour_start": "00:00",
+                    "hour_end": "23:59" 
+                }
+            ]
+
+        }
+    },
+    {
+        "name": "Violence city",
+        "id": 2233,
+        "content":
+        {
+            "disponibility":
+            [
+                {
+                    "date": "2023-07-02",
+                    "hour_start": "00:00",
+                    "hour_end": "23:59" 
+                }
+            ]
+
+        }
+    }
+
+]
